@@ -1,0 +1,5 @@
+---
+applications:
+- name: rest_api_mongodb_auth
+  memory: 1024M
+  domain: localhost
